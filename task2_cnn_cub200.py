@@ -186,7 +186,7 @@ def main():
     主函数
     """
     # 数据路径
-    data_root = Path(__file__).parent / "data" / "data"
+    data_root = Path(__file__).parent / "data" #/ "data"
     
     # 模型选择
     # 选项1: 较小模型,用于快速训练和调试
