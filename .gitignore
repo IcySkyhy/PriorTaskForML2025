@@ -5,3 +5,5 @@ __pycache__/
 .env
 .vscode/
 *.pth
+OldCodeUsedForCIFAR10/
+OTHERS/
